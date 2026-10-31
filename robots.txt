@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brikonigin.github.io/sitemap.xml
